@@ -1,3 +1,5 @@
+//Essa aula não utiliza POO, pois é parte de uma comparação, em que se resolve o msm problema utilizando programação sem POO e a outra com POO:
+
 import java.util.Scanner;
 
 class Main{
